@@ -9,7 +9,6 @@ void setup()
  
   Serial.begin(9600);
   while (!Serial); 
-  Serial.println("\n Scanning");
 
   Serial.println("Scanning...");
  
